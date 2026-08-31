@@ -14,25 +14,24 @@ An end-to-end retail data science and Power BI project that predicts customer tr
 
 ---
 
+
 ## Project Overview
 
-This project analyzes customer shopping transactions from 2021–2023 to understand purchasing behavior and predict transaction value.
-
-The project combines Python, machine learning, DAX, and Power BI to identify customer, product, time, and location trends that support better retail decisions.
+This project analyzes retail customer shopping transactions to predict transaction value and uncover actionable business insights using machine learning and Power BI.
 
 ---
 
 ## Data Science Problem
 
-**How can we predict the total purchase value of a customer's transaction and use those predictions to support better retail decisions?**
+**How can we predict the total purchase value of a customer's transaction and use those insights to support better retail decisions?**
 
 ---
 
 ## Project Workflow
 
-Problem Definition → Dataset → Data Exploration → Model Training → Evaluation → Feature Engineering → Power BI → Business Insights
-
 ![Project Workflow Architecture](images/workflow-architecture.png)
+
+Problem Definition → Dataset → Data Exploration → Model Training → Evaluation → Feature Engineering → Power BI → Business Insights
 
 ---
 
@@ -40,18 +39,7 @@ Problem Definition → Dataset → Data Exploration → Model Training → Evalu
 
 **Source:** Kaggle Customer Shopping Dataset
 
-The dataset contains nearly 100,000 retail transactions from 2021–2023.
-
-Key fields include:
-
-- Customer Age
-- Gender
-- Product Category
-- Quantity
-- Price
-- Payment Method
-- Shopping Mall
-- Transaction Date
+Nearly 100,000 transactions from 2021–2023, including customer age, gender, product category, quantity, price, payment method, shopping mall, and transaction date.
 
 ---
 
@@ -71,7 +59,7 @@ Key fields include:
 
 - Age 35–44 generated the highest Average Transaction Value.
 - Under-25 customers represent an opportunity for stronger engagement.
-- Clothing was one of the strongest-performing product categories.
+- Clothing was one of the strongest-performing categories.
 - Mall of Istanbul showed declining performance and may require targeted action.
 
 ---
@@ -80,12 +68,7 @@ Key fields include:
 
 **Selected Model:** Random Forest Regression
 
-The model predicts Total Purchase Value and was evaluated using:
-
-- RMSE
-- MAE
-- R²
-- Unseen test data
+The model predicts Total Purchase Value and was evaluated using RMSE, MAE, R², and unseen test data.
 
 ---
 
