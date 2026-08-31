@@ -6,7 +6,7 @@ An end-to-end retail data science and Power BI project that predicts customer tr
 
 ## 📊 Interactive Power BI Dashboard
 
-👉 **[OPEN INTERACTIVE DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiODY2OTk3ZTQtNjcyYS00NzFmLWFhNTMtOTgyZDdmYjJlYzBjIiwidCI6ImYxYWQ2ODFmLTZmNjItNDNhOS04MjQxLTA3MDMxNjBlMTM0OCIsImMiOjN9))**
+### 👉 [OPEN THE INTERACTIVE POWER BI DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiODY2OTk3ZTQtNjcyYS00NzFmLWFhNTMtOTgyZDdmYjJlYzBjIiwidCI6ImYxYWQ2ODFmLTZmNjItNDNhOS04MjQxLTA3MDMxNjBlMTM0OCIsImMiOjN9)
 
 [![Transaction Value Prediction Dashboard](Final%20DashboardProject1.png)](YOUR-POWER-BI-LINK)
 
