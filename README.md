@@ -70,6 +70,12 @@ Nearly 100,000 transactions from 2021–2023, including customer age, gender, pr
 
 The model predicts Total Purchase Value and was evaluated using RMSE, MAE, R², and unseen test data.
 
+## Author
+
+**Vestine Nimenya**
+
+* [LinkedIn](https://www.linkedin.com/in/vestine-nimenya-17188b267/)
+* [GitHub](https://github.com/2Jay-bi)
 
 
 
