@@ -70,6 +70,13 @@ Nearly 100,000 transactions from 2021–2023, including customer age, gender, pr
 
 The model predicts Total Purchase Value and was evaluated using RMSE, MAE, R², and unseen test data.
 
+
+---
+
+## Technologies Used
+
+Python • Google Colab • Pandas • Scikit-learn • Power BI • Power Query • DAX 
+
 ## Author
 
 **Vestine Nimenya**
@@ -77,10 +84,3 @@ The model predicts Total Purchase Value and was evaluated using RMSE, MAE, R², 
 * [LinkedIn](https://www.linkedin.com/in/vestine-nimenya-17188b267/)
 * [GitHub](https://github.com/2Jay-bi)
 
-
-
----
-
-## Technologies Used
-
-Python • Google Colab • Pandas • Scikit-learn • Power BI • Power Query • DAX • Kaggle
