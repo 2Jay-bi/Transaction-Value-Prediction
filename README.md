@@ -29,9 +29,9 @@ This project analyzes retail customer shopping transactions to predict transacti
 
 ## Project Workflow
 
-![Project Workflow Architecture](images/workflow-architecture.png)
 
-Problem Definition → Dataset → Data Exploration → Model Training → Evaluation → Feature Engineering → Power BI → Business Insights
+
+Problem Definition → Dataset(Extract) → Data Exploration(Python, SQL, Cleaning) → Model Training → Evaluation → Feature Engineering(DATA MODEL,Time dimension created, DAX,New columns) → Power BI → Business Insights
 
 ---
 
@@ -70,11 +70,8 @@ Nearly 100,000 transactions from 2021–2023, including customer age, gender, pr
 
 The model predicts Total Purchase Value and was evaluated using RMSE, MAE, R², and unseen test data.
 
----
 
-## 🎥 Project Presentation
 
-👉 **[WATCH PROJECT PRESENTATION](YOUR-VIDEO-LINK)**
 
 ---
 
